@@ -12,5 +12,3 @@ Desarrollo de un proyecto de software para la implementación de integración co
 - Martinez Diaz Juan Manuel
 
 - Julian Esteban Ramirez Cajamarca 
-
--
