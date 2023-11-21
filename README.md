@@ -3,6 +3,7 @@ Desarrollo de un proyecto de software para la implementación de integración co
 
 [![Jen.png](https://i.postimg.cc/9X9xD8bS/Jen.png)](https://postimg.cc/8s1d3bqB)
 
+[![Captura-de-pantalla-2023-11-21-145348.png](https://i.postimg.cc/rsRCWpg0/Captura-de-pantalla-2023-11-21-145348.png)](https://postimg.cc/MfxQJqCq)
 ## Integrantes:
 
 - Jhonatan Carrillo Restrepo
