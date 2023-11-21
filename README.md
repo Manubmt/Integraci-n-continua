@@ -1,6 +1,8 @@
 # Integración Continua - Politécnico Grancolombiano
 Desarrollo de un proyecto de software para la implementación de integración continua. 
 
+[![Jen.png](https://i.postimg.cc/9X9xD8bS/Jen.png)](https://postimg.cc/8s1d3bqB)
+
 ## Integrantes:
 
 - Jhonatan Carrillo Restrepo
